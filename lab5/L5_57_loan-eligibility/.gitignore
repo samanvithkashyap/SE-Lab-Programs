@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+venv/
+loans.bin
+loans.json
